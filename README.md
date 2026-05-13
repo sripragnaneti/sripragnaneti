@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 My Skills
 [![My Skills](https://skillicons.dev/icons?i=python,java,react,nodejs,mongodb,docker)](https://skillicons.dev)
 
-![](https://komarev.com/ghpvc/?username=sripragnaneti&color=blue)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Machine+Learning+Explorer)](https://git.io/typing-svg)
+
+![snake gif](https://github.com/sripragnaneti/sripragnaneti/blob/output/github-contribution-grid-snake.svg)
+
+[![wakatime](https://wakatime.com/badge/user/YOUR-ID.svg)](https://wakatime.com/@YOUR-ID)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_ID)](https://spotify-github-profile.vercel.app)
+
+
