@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
 [![Pragna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sripragnaneti&theme=tokyo-night)](https://github.com/sripragnaneti)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sripragnaneti&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
