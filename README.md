@@ -28,4 +28,4 @@ My Skills
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sripragnaneti&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sripragnaneti&layout=compact&theme=tokyonight&hide_border=true)
+![snake gif](https://github.com/sripragnaneti/sripragnaneti/blob/output/github-contribution-grid-snake.svg)
