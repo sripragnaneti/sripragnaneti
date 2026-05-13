@@ -27,9 +27,3 @@ My Skills
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;Machine+Learning+Explorer)](https://git.io/typing-svg)
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sripragnaneti&show_icons=true&theme=tokyonight)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sripragnaneti/sripragnaneti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sripragnaneti/sripragnaneti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sripragnaneti/sripragnaneti/output/github-contribution-grid-snake.svg">
-</picture>
