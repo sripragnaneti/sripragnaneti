@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=perisicnikola37&color=c952cc&style=for-the-badge&label=PROFILE+VIEWS" height="35" alt="Profile view counter on GitHub" />
+<img src="https://komarev.com/ghpvc/?username=perisicnikola37&color=c952cc&style=for-the-badge&label=PROFILE+VIEWS" height="50" alt="Profile view counter on GitHub" />
 
 </div>
 
