@@ -26,7 +26,6 @@ My Skills
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;Machine+Learning+Explorer)](https://git.io/typing-svg)
 
-![Pragna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sripragnaneti&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sripragnaneti&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sripragnaneti&layout=compact&theme=tokyonight&hide_border=true)
