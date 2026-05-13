@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 [![Pragna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sripragnaneti&theme=tokyo-night)](https://github.com/sripragnaneti)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sripragnaneti&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,react,nodejs,mongodb,docker)](https://skillicons.dev)
