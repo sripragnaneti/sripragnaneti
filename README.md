@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sripragnaneti&layout=compact&theme=tokyonight)
+[![Pragna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sripragnaneti&theme=tokyo-night)](https://github.com/sripragnaneti)
