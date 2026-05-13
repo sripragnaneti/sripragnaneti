@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sripragnaneti&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sripragnaneti&theme=tokyonight)
