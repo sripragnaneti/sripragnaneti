@@ -2,8 +2,6 @@
 
 # Hi there, I'm Pragna 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Explorer)](https://git.io/typing-svg)
-
 <br/>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
