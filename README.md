@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sripragnaneti)
 
 [![Pragna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sripragnaneti&theme=tokyo-night)](https://github.com/sripragnaneti)
 
@@ -28,4 +28,8 @@ My Skills
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sripragnaneti&show_icons=true&theme=tokyonight)
 
-![snake gif](https://github.com/sripragnaneti/sripragnaneti/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sripragnaneti/sripragnaneti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sripragnaneti/sripragnaneti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sripragnaneti/sripragnaneti/output/github-contribution-grid-snake.svg">
+</picture>
