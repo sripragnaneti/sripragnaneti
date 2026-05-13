@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sripragnaneti&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-
+My Skills
 [![My Skills](https://skillicons.dev/icons?i=python,java,react,nodejs,mongodb,docker)](https://skillicons.dev)
+
+![](https://komarev.com/ghpvc/?username=sripragnaneti&color=blue)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Machine+Learning+Explorer)](https://git.io/typing-svg)
