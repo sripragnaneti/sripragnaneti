@@ -14,7 +14,7 @@
   
 ## 💻 Tech Stack & Skills
   
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,express,flask,fastapi,mysql,mongodb,docker,githubactions,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,express,flask,fastapi,mysql,docker,githubactions,git&perline=8)](https://skillicons.dev)
 
 </div>
 
