@@ -4,7 +4,7 @@
 
 <br/>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
